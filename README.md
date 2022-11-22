@@ -287,6 +287,7 @@ This is the link to the video!
 ## Contributors
 
 Worked on this in a group with Luis Jimenez!
+[Luis](https://github.com/Bam28)
 
 ---
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
