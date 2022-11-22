@@ -283,6 +283,10 @@ Here are some pictures!
 [Social Network API Repo!](https://github.com/Lizandro21/socialnetwork-api)
 
 This is the link to the video!
+---
+## Contributors
+
+Worked on this in a group with Luis Jimenez!
 
 ---
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
